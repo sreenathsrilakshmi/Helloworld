@@ -2,9 +2,10 @@
 //
 //
 //
-class Helloworld{
-public static void main(string[]arg){
-	system.out.println("Hello world edureka!!!")
-}
+class Helloworld {
+public static void main(String[] args){ 
+	System.out.println("Hello world edureka!!!");
+        } 
 
 }
+
