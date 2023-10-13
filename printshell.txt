@@ -1,3 +1,2 @@
 echo "shell"
-dat
-cal
+
